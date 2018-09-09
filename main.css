@@ -3,6 +3,7 @@
 }
 
 form {
+    padding : 10px; 
     border: 5px solid #000000;
     position: sticky;
 }
