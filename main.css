@@ -1,3 +1,7 @@
+.maintitle {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
 form {
     border: 5px solid #000000;
     position: sticky;
