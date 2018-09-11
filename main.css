@@ -2,6 +2,7 @@
     font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
     padding: 10px;
     border: 25px solid #000000;
+    background-color: white;
     position: sticky;
 }
 
@@ -9,6 +10,7 @@ form {
     padding : 10px; 
     border: 5px solid #000000;
     position: sticky;
+    background-color: white;
 }
 
 body {
