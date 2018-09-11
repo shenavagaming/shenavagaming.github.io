@@ -11,6 +11,10 @@ form {
     position: sticky;
 }
 
+body {
+    background-color; #000000;
+}
+
 .About {
     padding : 100px;
     border: 5px solid #000000;
