@@ -2,6 +2,7 @@
     font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
     padding: 10px;
     border: 25px solid #000000;
+    position: sticky
 }
 
 form {
