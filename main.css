@@ -1,14 +1,14 @@
 .maintitle {
     font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
     padding: 10px;
-    border: 25px solid #000000;
+    border: 25px solid red;
     background-color: white;
     position: sticky;
 }
 
 form {
     padding : 10px; 
-    border: 5px solid #000000;
+    border: 5px solid red;
     position: sticky;
     background-color: white;
 }
@@ -19,7 +19,7 @@ body {
 
 .About {
     padding : 100px;
-    border: 5px solid #000000;
+    border: 5px solid red;
     margin: 25px;
     background-image: url("images/images.jpeg");
     font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
