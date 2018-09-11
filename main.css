@@ -1,5 +1,6 @@
 .maintitle {
-    //font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    /*font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;*/
+    font-family: 'Roboto Mono', monospace;
     padding: 10px;
     border: 25px solid #000000;
     background-color: yellow;
@@ -23,6 +24,7 @@ body {
     border: 5px solid #000000;
     margin: 25px;
     background-image: url("images/images.jpeg");
-    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    /*font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; */
+    font-family: 'Roboto Mono', monospace;
     font-weight: bold;
 }
