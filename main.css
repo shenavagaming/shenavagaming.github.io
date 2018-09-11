@@ -4,6 +4,7 @@
     border: 25px solid #000000;
     background-color: yellow;
     position: sticky;
+    font-weight: bold;
 }
 
 form {
