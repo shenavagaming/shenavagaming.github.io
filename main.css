@@ -32,3 +32,8 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
 }
+
+.About:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
