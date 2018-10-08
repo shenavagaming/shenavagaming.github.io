@@ -27,8 +27,8 @@ body {
 
 button {
  display: block;
- background: #fff;
- padding: 15px;
+ color: #fff;
+ border_radius: 5px;
     
 }
 .About {
