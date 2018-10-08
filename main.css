@@ -26,9 +26,13 @@ body {
 }
 
 button {
+ background: #5d8ffc;
  display: block;
  color: #fff;
+ border: 0px;
  border_radius: 5px;
+ padding: 15px;
+ width: 100%
     
 }
 .About {
