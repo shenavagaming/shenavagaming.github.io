@@ -2,10 +2,11 @@ function create_account(){
  var userEmail = document.getElementById("email_id").value;
  var userPass = document.getElementById("pass_id").value;
  
- firebase.auth.createUserWithEmailAndPassword(userEmail, userPass).catch(function(error) {
-   var errorCode = error.code;
-   var errorMessage = error.message;
- });
+ window.alert(userEmail + " " + userPass);
+ //firebase.auth.createUserWithEmailAndPassword(userEmail, userPass).catch(function(error) {
+   //var errorCode = error.code;
+   //var errorMessage = error.message;
+ //});
 }
 
 function login(){
