@@ -5,7 +5,7 @@
         // [END signout]
       } else {
         var email = document.getElementById('email_id').value;
-        var password = document.getElementById('password_id').value;
+        var password = document.getElementById('pass_id').value;
         if (email.length < 4) {
           alert('Please enter an email address.');
           return;
