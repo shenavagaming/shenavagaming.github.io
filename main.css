@@ -25,7 +25,7 @@ body {
    background-color: white;
 }
 
-button {
+/* button {
  background: #5d8ffc;
  display: block;
  color: #fff;
@@ -34,7 +34,7 @@ button {
  padding: 15px;
  width: 100%
     
-}
+} */
 .About {
     padding : 100px;
     border: 5px solid #000000;
