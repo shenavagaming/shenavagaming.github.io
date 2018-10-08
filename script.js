@@ -6,14 +6,15 @@ firebase.auth().onAuthStateChanged(function(user) {
 
 if (user != null) {
   email = user.email;
-  emailVerified = user.emailVerified;  // The user's ID, unique to the Firebase project. Do NOT use
+  emailVerified = user.emailVerified; 
+  window.prompt("Login Successful, Welcome " + email + "Email Verified : " + emailVerified);// The user's ID, unique to the Firebase project. Do NOT use
                    // this value to authenticate with your backend server, if
                    // you have one. Use User.getToken() instead.
 }
 
   } else {
     // No user is signed in.
-    window.prompt("You are not logged in");
+    
   }
 });
 
