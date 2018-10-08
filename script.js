@@ -4,7 +4,7 @@ function create_account(){
  
  firebase.auth.createUserWithEmailAndPassword(userEmail, userPass).catch(function(error) {
    var errorCode = error.code;
-   var errorMessage = error.Message;
+   var errorMessage = error.message;
  });
 }
 
@@ -14,6 +14,6 @@ function login(){
  
  firebase.auth.signInWithEmailAndPassword(userEmail, userPass).catch(function(error) {
   var errorCode = error.code;
-  var errorMessage = error.Message;
+  var errorMessage = error.message;
  });
 }
